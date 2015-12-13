@@ -1,0 +1,4 @@
+com\jbp\user\dao\UserDaoImpl.class
+com\jbp\user\util\HibernateUtil.class
+com\jbp\user\model\User.class
+com\jbp\user\dao\IUserDao.class
